@@ -1,0 +1,23 @@
+body{
+    background-image:url("./images/background.png");
+    background-size: 100%;
+}
+.content
+{
+    padding-top:150px;;
+    bottom: 20%;
+    color:azure;
+}
+.content h1{
+    font-size: 70px;
+    font-family: Georgia;
+}
+.iconbar a{
+padding: 15px;
+}
+.intro p{
+    bottom: 20%;
+    font-size: 50px;
+    font-family: Georgia;
+    color:azure;
+}
